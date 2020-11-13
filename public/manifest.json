@@ -1,0 +1,30 @@
+{
+    "name": "La Liga",
+    "short_name": "laliga",
+    "description": "La Liga Standing Application",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#003472",
+    "theme_color": "#003472",
+    "icons": [
+        {
+            "src": "/assets/images/laliga512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/images/icon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/assets/images/laliga180.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "gcm_sender_id": "28687324410"
+}
